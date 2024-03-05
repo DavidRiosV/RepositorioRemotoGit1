@@ -6,6 +6,5 @@ public class principal {
 		System.out.println("Hola");
 		System.out.println("Adios");
 		//Comentario para probar remoto
-		//jujujju
 	}
 }
